@@ -1,13 +1,12 @@
 # PyPlayer
 
 ###### Desc.
-       *This is a test project, written in Python. As a beginner, some interesting
-       things need to be picked up and take adventure into it using the language. 
-       Here I will grab some music post from the popular music share site: xxxx.xxx *
+       *Some small scripts of downloading files via ftp/http, writen in Python. 
 
 
 ###### Arch.
        TBD...
+       
 
 
 `Python`
